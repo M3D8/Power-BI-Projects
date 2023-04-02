@@ -1,1 +1,19 @@
-A directory for the Ski Challenege Project.
+This project was created as a guide to skiers and snow shredders to help them make a solid plan for their ski activities. The dashboard gives users insights on different ski resorts across the world to help them find their ideal slopes that are best suited to their needs and preferences.
+
+There is two Excel data tables given for this project . The first is the Resorts table which gives detailed information about each resort such country, exact location coordinates (longitude and latitude), 1-day adult pass price, total number of lifts and their variations, season period, summer and night skiing options and more.
+
+The second is the Snow table which contains supplemental data on the surface of the earth covered by snow for each month in 2022, by latitude & longitude.
+
+Questions answered in this project:
+
+What is the price for 1-day adult pass for each resort and their respective season start-end period?
+
+What is the exact location of each resort, the variety of lifts offered and their longest run distances?
+
+What are the resorts that are child-friendly and/or have snowparks, summer-skiing and/or night-skiing options?
+
+What are the regions across the world that have continuous snow coverage during the period of interest?
+
+What is the number of beginner, intermediate and difficult slopes of each resort and what is the highest and lowest altitude points they offer?
+
+*This work is part of the Maven Slopes Challenge.
