@@ -1,1 +1,41 @@
-A folder for all the files of this project.
+·Objective of The Study:
+
+Oil and gas companies offer a variety of fuel grades to their customers when it comes to gasoline and diesel fuels. For Shell gas stations in Tunisia, they offer 
+gasoline vehicles two types of gasoline: regular unleaded gasoline distinguished by its green colored pump and a premium version of gasoline called Shell V-Power known
+by its red colored pump.
+
+Premium gasoline fuels are claimed to be more efficient when it comes to fuel consumption and are known to offer a better engine protection compared to 
+regular unleaded gasoline. This is due to the additives that these premium fuels contain which are not found, or found in smaller portions, in regular unleaded
+gasoline. Given these advantages of premium gasoline, it comes with a higher price.
+
+This study aims to test whether Shell V-Power actually offers a better a fuel efficiency when compared to Shell regular unleaded gasoline and to verify if
+the fuel economy benefits of Shell V-Power, if they exist, actually offset its extra cost.
+
+For this test, I will be using my car as a test subject and driving through multiple driving and environmental conditions to see the different effects of these 
+conditions on the fuel efficiency returned by the two Shell fuel types.
+
+o Questions to be answered in this analysis:
+
+The main question that I am trying to find an answer for in this study is the following:
+
+– Taking my car as a test subject, does Shell V-Power Gasoline provide an overall better fuel efficiency than Shell Regular Unleaded Gasoline?
+
+**
+
+Other questions that I will try to answer as well are:
+
+– What is the impact of temperature and humidity on car fuel consumption? In addition, which fuel type provides a better fuel efficiency at severe conditions 
+(high temperatures and high humidity)?
+
+– How much does driving on bumpy roads and/or driving aggressively affect fuel consumption? Which fuel type performs better in these conditions?
+
+– For each type of gasoline, what is the driving speed sweet spot that provides the best fuel consumption?
+
+·Collecting the Data:
+
+To collect the data required for this study, I had to make sure that my car is well-maintained and will have a stable condition throughout the data collection phase.
+For this, I did an oil change, replaced air and oil filters, greased the battery poles, checked my tires pressure, coolant level, brake fluid quality and level, tires 
+and brake pads conditions. I kept checking these areas as long as I was collecting the data points to ensure that the MPG values returned after each trip are mostly
+a result of the fuel type, driving and environmental conditions and not my car condition. In addition, when filling up on gas, I made sure that the gas tank level at
+the time of the fill-up is at the ¼ level or less and that I alternate between the two types of Shell gasoline with each fill-up operation. I made sure this condition 
+is present so the tank contains at least 75% of one of the fuels after each fill-up.
