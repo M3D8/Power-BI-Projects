@@ -1,0 +1,21 @@
+This work extracts the data from "Vehicle Fuel Economy Estimates, 1984-2017" dataset, created by the Environmental Protection Agency (EPA), published on Kaggle.com and shows visualizations and insights that showcase the evolution of cars fuel economy throughout the time period covered in the dataset, as well as relationship between car's performance and specifications and fuel consumption, in addition to annual fuel cost and savings trends across different car makes and models.
+
+The questions that I was trying to find answers to, in this work, were:
+
+Have cars become more or less efficient throughout the years when it comes to fuel consumption?
+How did average annual fuel costs estimates vary throughout the time period covered by the dataset?
+What car makes achieved the highest jump in fuel economy, based on their cars combined MPG values, since the start of the 21st century?
+What are the models that offer the highest savings on average 5-year fuel cost?
+What are the impacts of vehicle's drive type, transmission type, engine displacement and start-stop technology adaptation on combined MPG?
+This project also includes other visualizations and charts that gives other insights that are mentioned in details in the report.
+
+About the dataset:
+The purpose of EPA’s fuel economy estimates is to provide a reliable basis for comparing vehicles. Most vehicles in the database (other than plug-in hybrids) have three fuel economy estimates: a “city” estimate that represents urban driving, in which a vehicle is started in the morning (after being parked all night) and driven in stop-and-go traffic; a “highway” estimate that represents a mixture of rural and interstate highway driving in a warmed-up vehicle, typical of longer trips in free-flowing traffic; and a “combined” estimate that represents a combination of city driving (55%) and highway driving (45%). Estimates for all vehicles are based on laboratory testing under standardized conditions to allow for fair comparisons.
+
+The database provides annual fuel cost estimates, rounded to the nearest $50, for each vehicle. The estimates are based on the assumptions that you travel 15,000 miles per year (55% under city driving conditions and 45% under highway conditions) and that fuel costs $2.33/gallon for regular unleaded gasoline, $2.58/gallon for mid-grade unleaded gasoline, and $2.82/gallon for premium.
+
+EPA’s fuel economy values are good estimates of the fuel economy a typical driver will achieve under average driving conditions and provide a good basis to compare one vehicle to another. However, your fuel economy may be slightly higher or lower than EPA’s estimates. Fuel economy varies, sometimes significantly, based on driving conditions, driving style, and other factors.
+
+Before working with the data and start analyzing it in Power BI, I processed it and cleaned it in Excel where I corrected some wrong values, removed blanks and trimmed the dataset to show only the columns that I need to answer the questions asked.
+
+In this project, I only covered the trends for cars running on regular fuel or premium fuel. I sometimes narrowed down the covered period for some visualizations, based on my needs and what I am trying to get from the graphs.
