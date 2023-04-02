@@ -1,0 +1,14 @@
+The project describes the performance of Maven Market, a multi-national grocery chain in terms of monthly and yearly revenue and profit, store transactions, 
+brands and products sales, customers demographics, etc.
+
+The main questions answered in this report are:
+
+⏩ What are the most profitable brands and their respective top selling products throughout the time period covered by the datasets?
+
+⏩ Did total revenue meet the target for each month?
+
+⏩ What is the best performing store when it comes to generating profit? What is the store with the most returns?
+
+⏩ What country did the customers that generated most of the revenues come from?
+
+⏩ What membership type did the customers who generated most of the revenues have?
